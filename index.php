@@ -1,3 +1,3 @@
 <?php
-    echo "GitHub";
+    echo "GitHub.com";
 ?>
